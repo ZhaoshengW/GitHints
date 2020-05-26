@@ -1,0 +1,13 @@
+git clone: clone a git repository from a remote source
+git commit: commit and save changes
+git stash: save changes without committing
+git reset: go back to work on the last commit changes
+git push/pull: update or be updated
+git branch: show all branches
+git checkout: switch to other branches
+git merge: merge two branches
+git add: add changes to index in my current working directory
+git init: give your project a git repository
+git config: set username and email in the main configuration file
+git status: show status
+git remote:check for remote or source
